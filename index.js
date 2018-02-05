@@ -20,7 +20,7 @@ class Calculator {
  }
 }
 
-var Calculate = new Calculator();
+let Calculate = new Calculator();
 //Calculate
 // .addOperator("cong", new Addition)
 // .addOperator("tru", new Subtraction)
